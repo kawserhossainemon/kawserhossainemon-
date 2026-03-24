@@ -49,7 +49,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://facebook.com/[https://www.facebook.com/kawserhossainemon]">Facebook</a> |
+  <a href="https://facebook.com/https://www.facebook.com/kawserhossainemon">Facebook</a> |
   <a href="https://t.me/kawserhossainemon">Telegram</a>
 </p>
 
