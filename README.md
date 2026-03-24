@@ -1,29 +1,58 @@
-# Hi, I'm Kawser Hossain 👋
+<h1 align="center">Hi 👋, I'm Kawser Hossain</h1>
+<h3 align="center">Computer Engineer | Tech Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Networking+Expert;Tech+Lover&center=true&width=500&height=50">
+</p>
+
+---
 
 ## 👨‍💻 About Me
-I am a Computer Engineer from Bangladesh 🇧🇩  
-I love working with technology and solving real-world problems.
+- 🎓 Computer Engineer from Bangladesh 🇧🇩  
+- 🔧 Skilled in Networking & IP Camera Setup  
+- 🌐 Working on Network Related Issues 
+- 💡 Love solving real-world tech problems  
 
 ---
 
 ## 🛠️ Skills
-- Networking & IP Camera Setup  
-- Router Configuration (Mercusys, etc.)  
-- Basic  Networking 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,git" />
+</p>
+
+- Networking & Router Configuration  
+- IP Camera Installation (NVR/DVR)  
 - Technical Support  
 
 ---
 
 ## 🚀 Projects
-- IP Camera Setup Guide  
-- Network Troubleshooting  
+- 🔹 IP Camera Setup Guide  
+- 🔹 Network Troubleshooting System  
+ 
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawserhossainemon&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kawserhossainemon&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contact
-- Email: kawserhossainemon@gmail.com
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kawserhossainemon&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://facebook.com/[yourprofile](https://www.facebook.com/kawserhossainemon)">Facebook</a> |
+  <a href="https://t.me/kawserhossainemon">Telegram</a>
+</p>
+
+---
+
+<p align="center">🔥 Always learning new things 🔥</p>
